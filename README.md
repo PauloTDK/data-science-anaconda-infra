@@ -18,8 +18,11 @@ Want to quickly create your Anaconda Data Science workspace? Well, let's try to 
 
 # Why Podman?
 Well, I was having some problems with Docker Desktop, were it were eating all my notebook's memory and disk only to build the image, despite configurations, and I became quite annoyed with it, hence, an alternative was required.
+
 Will it be better for Data Science? Dunno, but should be of no difference
+
 Will it be better for me (whoever you are)? Dunno
+
 Is it working better for me (PauloTDK)? Yes
 
 # Why?
